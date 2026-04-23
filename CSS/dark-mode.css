@@ -1,0 +1,37 @@
+.dark-mode {
+   --header-bg: rgba(22,20,3, 0.5);
+   background-color: var(--dark-color);
+   color: white;
+   transition: var(--transition);
+   --text-color:#fff; 
+    --border: 1px solid rgb(0, 0, 0);
+   --bg-black : black;
+
+}
+.dark-mode .dark-mode-btn {
+    color: #bb86fc;
+}
+
+.dark-mode .main-footer{
+     background-color: black ;
+   
+}
+.dark-mode .social-icon a:hover {
+   box-shadow: var(--box-shadow);
+   color: #000;
+    background-color:  white;
+   transform: translateY(-3px);
+} 
+.dark-mode .form-group input,
+.dark-mode .form-group textarea ,
+.dark-mode .main-skills .skill-box,
+.dark-mode .social-icon{
+    background-color: #212120;
+    color: #e0e0e0;
+    border-color: #444;
+}
+.dark-mode .lang span{
+   background-color: #2d2d2d;
+    border-color: #444;
+}
+ 
