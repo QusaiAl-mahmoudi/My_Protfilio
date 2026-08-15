@@ -1,2 +1,2 @@
 ## My_Protfolio
-# I builded this website by html,css and javascript
+# I builded this frontend website by html,css and javascript
